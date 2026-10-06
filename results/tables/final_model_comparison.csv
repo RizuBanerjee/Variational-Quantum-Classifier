@@ -1,0 +1,5 @@
+Model,Encoding,Best Loss,Best Loss Epoch,Training Accuracy (%),Test Accuracy (%),Precision,Recall,F1 Score,Training Time (s)
+Logistic Regression,Classical,,,,100.0,1.0,1.0,1.0,
+VQC,E1,0.459529,20.0,97.5,95.0,1.0,0.9,0.947368,18.078293
+VQC,E2,0.340262,30.0,98.75,95.0,1.0,0.9,0.947368,18.150127
+VQC,E3,0.263582,23.0,96.25,95.0,1.0,0.9,0.947368,18.026676

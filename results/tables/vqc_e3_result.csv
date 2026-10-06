@@ -1,0 +1,2 @@
+Encoding,Angle_Range,Final_Loss,Best_Loss,Best_Loss_Epoch,Training_Accuracy,Test_Accuracy,Training_Time
+E3,[-pi, pi] + feature reorder,0.2866760006112469,0.26358158914315194,23,0.9625,0.95,18.026675939559937
