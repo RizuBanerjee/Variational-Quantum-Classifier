@@ -1,4 +1,0 @@
-Encoding,Final Loss,Best Loss,Best Loss Epoch,Training Accuracy (%),Test Accuracy (%),Training Time (s)
-E1,0.477104,0.459529,20,97.5,95.0,38.88
-E2,0.340262,0.340262,30,98.75,95.0,38.55
-E3,0.286676,0.263582,23,96.25,95.0,38.84

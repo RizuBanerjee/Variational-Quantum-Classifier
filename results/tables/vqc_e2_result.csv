@@ -1,2 +1,0 @@
-Encoding,Angle_Range,Final_Loss,Best_Loss,Best_Loss_Epoch,Training_Accuracy,Test_Accuracy,Training_Time
-E2,[-pi/2, pi/2],0.3402623998383396,0.3402623998383396,30,0.9875,0.95,18.150127410888672
